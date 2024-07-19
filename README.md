@@ -20,8 +20,13 @@ Query By Humming Music Retrieval System is a mobile application that allows user
 - **API Integration:** YouTube API
 
 ## UI of Recording and Uploading Humming Inputs Page
-
+![image](https://github.com/user-attachments/assets/768e6437-249a-40ae-81ff-c0cbfcae83c3)
 
 ## UI of Processing Page
+![image](https://github.com/user-attachments/assets/a1aab353-f334-434b-bf96-9e39b69721ee)
 
 ## UI of Results Page
+![image](https://github.com/user-attachments/assets/0df2fb06-9b07-45f1-b4fd-81363cfeb26a)
+
+## Dataset
+Kaggle: https://www.kaggle.com/datasets/limzhiminjessie/query-by-humming-qbh-audio-dataset/data
