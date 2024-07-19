@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e9ef9f8-338e-4fb2-9d07-c97f622ca5be)# Query By Humming Music Retrieval System
+# Query By Humming Music Retrieval System
 
 ## Description
 
