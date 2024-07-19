@@ -60,3 +60,6 @@ This folder contains the backend code for handling feature extraction, model inf
 
 ## Dataset
 Kaggle: https://www.kaggle.com/datasets/limzhiminjessie/query-by-humming-qbh-audio-dataset/data
+
+## Contributors
+- [Your Name]([https://github.com/your-username](https://github.com/jessielimzhimin))
