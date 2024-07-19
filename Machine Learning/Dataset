@@ -99,3 +99,19 @@ valid_dataset = HybridFeaturesDataset(
     split='valid',  
     split_ratio=0.8
 )
+
+# DataLoader for the training dataset
+train_dataloader = DataLoader(
+    train_dataset,
+    batch_size=32,
+    shuffle=True
+)
+
+# DataLoader for the validation dataset
+valid_dataloader = DataLoader(
+    valid_dataset,
+    batch_size=32,
+    shuffle=False
+)
+
+
